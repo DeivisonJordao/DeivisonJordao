@@ -10,7 +10,8 @@
 
 ![Deivison's GitHub stats](https://github-readme-stats.vercel.app/api?username=deivisongithub&show_icons=true&theme=radical)
 
-My name is Deivison Rodrigues jordão, I am a undergraduate student in Data Science and Artificial Intelligence at UFPB and I have domain of several tools and languages, but my focus is on Python language for my projects.
+My name is Deivison Rodrigues jordão, I am a undergraduate student in Data Science
+and Artificial Intelligence at UFPB and I have domain of several tools and languages, but my focus is on Python language for my projects.
 
 ## Skills
 
