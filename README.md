@@ -1,10 +1,7 @@
 
 ## Hiii,welcome to my GitHub ✋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivison2021profissional@gmail.com)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deivison.rodrigues4/)
-
-![Deivison's GitHub stats](https://github-readme-stats.vercel.app/api?username=deivisongithub&show_icons=true&theme=radical)
+## About me
 
 My name is Deivison Rodrigues jordão, I am a undergraduate student in Data Science
 and Artificial Intelligence at UFPB and I have domain of several tools and languages, but my focus is on Python language for my projects.
@@ -18,5 +15,13 @@ and Artificial Intelligence at UFPB and I have domain of several tools and langu
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 
+## Github Status
 
+![Deivison's GitHub stats](https://github-readme-stats.vercel.app/api?username=deivisongithub&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deivisongithub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deivisongithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contats
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivison2021profissional@gmail.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deivison.rodrigues4/)
