@@ -20,8 +20,8 @@ and Artificial Intelligence at UFPB and I have domain of several tools and langu
 ####
   <div>
   <a href="https://github.com/deivisongithub">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=deivisongithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivisongithub&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deivisongithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivisongithub&layout=compact&langs_count=7&theme=tokyonight"/>
    </div>
 
 ## Contats
