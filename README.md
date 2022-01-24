@@ -17,7 +17,7 @@ and Artificial Intelligence at UFPB and I have domain of several tools and langu
 
 ## Github Status
 
-![Deivison's GitHub stats](https://github-readme-stats.vercel.app/api?username=deivisongithub&layout=compact&cache_seconds=1800&show_icons=true&theme=radical)
+![Deivison's GitHub stats](https://github-readme-stats.vercel.app/api?username=deivisongithub&layout=compact&cache_seconds=8000&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deivisongithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contats
