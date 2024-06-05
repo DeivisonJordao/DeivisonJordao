@@ -50,7 +50,7 @@
   <h2>My GitHub Stats</h2>
   <p>These are my GitHub stats, feel free to check them out!</p>
   <a href="https://github.com/DeivisonJordao">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeivisonJordao&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivisonJordao&hide=jupyter%20notebook&hide_border=true&theme=dark&bg_color=00000000&layout=compact&langs_count=6" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeivisonJordao&bg_color=30,290800,000000&title_color=fff&text_color=fff" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivisonJordao&hide=jupyter%20notebook&bg_color=30,290800,000000&title_color=fff&text_color=fff&layout=compact&langs_count=6" />
   </a>
 </div>
